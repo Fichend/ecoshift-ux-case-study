@@ -81,7 +81,3 @@ These figures are fictional and exist only to demonstrate the product narrative,
 
 Figma · Auto Layout · Components · Prototyping · UX writing · Data visualization · Accessibility review
 
-## Status
-
-Portfolio concept prepared for internship applications. The next iteration should add documented user interviews, task-based usability tests, and a fully wired interactive prototype.
-
